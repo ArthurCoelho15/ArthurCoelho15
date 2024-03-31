@@ -27,9 +27,9 @@
 - Python.
 
 <center><p>
-<img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80px">
+<img alling="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" width="80px">
+<img alling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80px">
+<img alling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80px">
 </p></center>
 
 <center><p>
