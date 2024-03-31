@@ -3,7 +3,7 @@
 
 <center><h2> Who am i? 🤔</h2></center>
 
-- Acadêmico de Engenharia Elétrica Eletrônica na Universidade de Pernambuco
+- Student of Electrical Engineer focus on Electronics at Universidade de Pernambuco
     - 7th grade, expected to be completed in the second half of 2025.
 
 - PPE´s Intern at Benteler Group 
