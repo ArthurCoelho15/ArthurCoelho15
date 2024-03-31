@@ -9,7 +9,7 @@
 - PPE´s Intern at Benteler Group 
     - Focus on Laser Cut.
 
-- Pós-Júnior at Poli Júnior Engenharia
+- Pos-Junior at Poli Júnior Engenharia
     - Former analyst in the automation and strategy sector.
 
 <center><p>
@@ -49,7 +49,7 @@
 
 </p></center>
 
-<h2> Some Git Analytics 
+<h2> Some Git Analytics 📊 </h2>
 
 <!--
 <center><p>
@@ -62,6 +62,7 @@
 <center><p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurcoelho15&show_icons=true&theme=highcontrast)
+
 </p></center>
 
 
