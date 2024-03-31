@@ -1,4 +1,4 @@
-# Wellcome to my Devside 😈
+<h1> Wellcome to my Devside 😈</h1>
 
 
 <center><h2> Who am i? 🤔</h2></center>
@@ -18,7 +18,7 @@
 
 </p></center> 
 
-## I´m currently learning 💻
+<h2> I´m currently learning 💻 </h2>
 
 - Git and Github;
 
@@ -38,7 +38,7 @@
 
 </p></center> 
 
-## Social Networks 📫
+<h2> Social Networks 📫 </h2>
 
 <center><p>
 
@@ -49,7 +49,7 @@
 
 </p></center>
 
-## Some Git Analytics
+<h2> Some Git Analytics </h2>
 
 <!--
 <center><p>
