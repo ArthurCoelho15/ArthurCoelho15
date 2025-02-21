@@ -34,7 +34,7 @@
 
 <center><p>
 
-> I´m also studying Excel and PowerBI, but you won´t see this content too much here 🤣
+> I´m also studying Excel and PowerBI, but you won´t see this content too much here 👻
 
 </p></center> 
 
