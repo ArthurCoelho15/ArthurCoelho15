@@ -4,7 +4,7 @@
 <center><h2> Who am i? 🤔</h2></center>
 
 - Student of Electrical Engineer focus on Electronics at Universidade de Pernambuco
-    - 8th grade, expected to be completed in the secondfirst half of 2026.
+    - 8th grade, expected to be completed in the secondhalf of 2026.
 
 - PPE´s Intern at Benteler Group 
     - Focus on Laser Cut.
